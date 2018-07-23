@@ -10,6 +10,7 @@
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
             <TextBlock Text="COUUUUUUU" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
             <TextBlock Text="GIIIIIIIIIT DEMOOOOOOO" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="50"></TextBlock>
+            <TextBlock Text="aodf"></TextBlock>
         </StackPanel>
     </Grid>
 </Window>
