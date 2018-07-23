@@ -8,5 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBlock Text="NewProject"></TextBlock>
+        <Button Content="ok"></Button>
     </Grid>
 </Window>
