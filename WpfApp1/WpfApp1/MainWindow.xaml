@@ -11,6 +11,7 @@
             <TextBlock Text="COUUUUUUU" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
             <TextBlock Text="GIIIIIIIIIT DEMOOOOOOO" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="50"></TextBlock>
             <TextBlock Text="aodf"></TextBlock>
+            <TextBlock Text="aeâo"></TextBlock>
         </StackPanel>
     </Grid>
 </Window>
